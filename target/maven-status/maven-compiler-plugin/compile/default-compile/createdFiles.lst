@@ -1,0 +1,5 @@
+com\devsuperior\dscommerce\config\customgrant\CustomPasswordAuthenticationConverter.class
+com\devsuperior\dscommerce\config\AuthorizationServerConfig.class
+com\devsuperior\dscommerce\config\customgrant\CustomUserAuthorities.class
+com\devsuperior\dscommerce\config\customgrant\CustomPasswordAuthenticationProvider.class
+com\devsuperior\dscommerce\config\customgrant\CustomPasswordAuthenticationToken.class
